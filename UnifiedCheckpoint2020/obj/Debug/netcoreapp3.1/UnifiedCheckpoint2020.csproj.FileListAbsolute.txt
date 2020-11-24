@@ -1,0 +1,75 @@
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.exe
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.deps.json
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.runtimeconfig.json
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.runtimeconfig.dev.json
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.dll
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.pdb
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.Views.dll
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.Views.pdb
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.AssemblyInfo.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorAssemblyInfo.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorAssemblyInfo.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.TagHelpers.input.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.TagHelpers.output.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorCoreGenerate.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorTargetAssemblyInfo.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorTargetAssemblyInfo.cs
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.Views.pdb
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\staticwebassets\UnifiedCheckpoint2020.StaticWebAssets.Manifest.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\staticwebassets\UnifiedCheckpoint2020.StaticWebAssets.xml
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.dll
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.pdb
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.genruntimeconfig.cache
+C:\Users\Eric\Documents\Fidelitas\Unified Checkpoint\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.csproj.CopyComplete
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\Plantilla\plugins\datatables\json\scroller-demo.json
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.exe
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.deps.json
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.runtimeconfig.json
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.runtimeconfig.dev.json
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.dll
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.pdb
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.Views.dll
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\bin\Debug\netcoreapp3.1\UnifiedCheckpoint2020.Views.pdb
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.csprojAssemblyReference.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.AssemblyInfoInputs.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.AssemblyInfo.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.csproj.CoreCompileInputs.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorAssemblyInfo.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorAssemblyInfo.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.TagHelpers.input.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.TagHelpers.output.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorCoreGenerate.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorTargetAssemblyInfo.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.RazorTargetAssemblyInfo.cs
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.Views.pdb
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\staticwebassets\UnifiedCheckpoint2020.StaticWebAssets.Manifest.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\staticwebassets\UnifiedCheckpoint2020.StaticWebAssets.xml
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.dll
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.pdb
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.genruntimeconfig.cache
+C:\Users\ejbar\Desktop\UnifiedCheckpoint2020\UnifiedCheckpoint2020\obj\Debug\netcoreapp3.1\UnifiedCheckpoint2020.csproj.CopyComplete
