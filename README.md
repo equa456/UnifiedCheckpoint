@@ -10,7 +10,7 @@ Sistema de control de propiedades, propietarios, clientes y avance en ventas de 
 
 --Instrucciones para instalar--
 
-Paso 1: Clonar o descargar el repositorio de la direccion:
+Paso 1: Clonar o descargar el repositorio de la direccion: https://github.com/equa456/UnifiedCheckpoint
 
 Paso 2: Abrir VisualStudio
 
